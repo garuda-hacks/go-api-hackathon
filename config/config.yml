@@ -1,0 +1,19 @@
+database:
+    driver: postgres
+    host: 103.214.112.202
+    port: 5434
+    user: postgres
+    password: Kalahkan
+    dbname: garudahacks
+    sslmode: disable
+    schema: 
+        gh: gh
+sentry:
+    isactive: true
+    dsn: https://103.214.112.202/22
+server:
+    port: 8080
+    issuer: Garuda Hacks - (Nama Team)
+    env: development
+    baseurl: http://localhost:8081/
+    redirectpage: http://localhost:8081/
