@@ -34,7 +34,8 @@ func (r *scholarRepository) List() ([]entity.Scholarship, error) {
 	var user []entity.Scholarship
 	var baseDb = r.base
 
-	query := baseDb.GetDB()
+	query := baseDb.GetDB().
+		Where("id_interest <= ?", "4")
 
 	err := query.Find(&user).Error
 	if err != nil {

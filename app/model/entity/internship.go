@@ -17,6 +17,7 @@ type Internship struct {
 	Avatar      string `json:"avatar"`
 	Target      string `gorm:"column:target"`
 	Duration    int    `gorm:"column:duration"`
+	IDInterest  int    `gorm:"column:id_interest"`
 }
 
 func (Internship) TableName() string {

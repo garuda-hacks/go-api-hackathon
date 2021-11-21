@@ -14,4 +14,5 @@ type Scholarship struct {
 	Avatar        string `json:"avatar"`
 	Target        string `json:"target" copier:"Target"`
 	Duration      int    `json:"duration" copier:"Duration"`
+	IDInterest    int    `json:"id_interest" copier:"IDInterest"`
 }

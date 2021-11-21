@@ -35,7 +35,8 @@ func (r *internshipRepository) List() ([]entity.Internship, error) {
 	var user []entity.Internship
 	var baseDb = r.base
 
-	query := baseDb.GetDB()
+	query := baseDb.GetDB().
+		Where("id_interest <= ?", "4")
 
 	err := query.Find(&user).Error
 	if err != nil {
