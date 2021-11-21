@@ -129,8 +129,12 @@ github.com/fsnotify/fsnotify v1.5.1 h1:mZcQUHVQUQWoPXXtuf9yuEXKudkV2sx1E06UadKWp
 github.com/fsnotify/fsnotify v1.5.1/go.mod h1:T3375wBYaZdLLcVNkcVbzGHY7f1l/uK5T5Ai1i3InKU=
 github.com/garuda-hacks/go-entities-hackathon v0.0.0-20211119132100-4f4f7e882a35 h1:xeLnpbTnG+ORNALeSpyPYgaBHqMUBOH5r/5Ckfqqw7Q=
 github.com/garuda-hacks/go-entities-hackathon v0.0.0-20211119132100-4f4f7e882a35/go.mod h1:0u5Fu6360Xo0UYyQ68Bvqffn43cU65LlpUDgy1prguA=
+github.com/garuda-hacks/go-entities-hackathon v0.0.0-20211121062459-818e7038e135 h1:6rNUJiCZzgZ3JLC1xCJZMGS3Fa9A4yRFsf/a4AJwxyc=
+github.com/garuda-hacks/go-entities-hackathon v0.0.0-20211121062459-818e7038e135/go.mod h1:0u5Fu6360Xo0UYyQ68Bvqffn43cU65LlpUDgy1prguA=
 github.com/garuda-hacks/go-library-hackathon v0.0.0-20211120022629-57ee3538d2bb h1:N7VCbJmRmgogLuJkkhSupqi/1GIa4pdUoEaRiEZ3Wcs=
 github.com/garuda-hacks/go-library-hackathon v0.0.0-20211120022629-57ee3538d2bb/go.mod h1:pEz0mstlPIVpYFvw1dxChYVt/jmOg/tryHGtA6+6Iog=
+github.com/garuda-hacks/go-library-hackathon v0.0.0-20211121062220-d599fb3417b2 h1:lR6ePXvrsLfbu2CejzC86XwFz505kK6H9dn1Q333J1U=
+github.com/garuda-hacks/go-library-hackathon v0.0.0-20211121062220-d599fb3417b2/go.mod h1:pEz0mstlPIVpYFvw1dxChYVt/jmOg/tryHGtA6+6Iog=
 github.com/gavv/httpexpect v2.0.0+incompatible/go.mod h1:x+9tiU1YnrOvnB725RkpoLv1M62hOWzwo5OXotisrKc=
 github.com/getsentry/sentry-go v0.11.0 h1:qro8uttJGvNAMr5CLcFI9CHR0aDzXl0Vs3Pmw/oTPg8=
 github.com/getsentry/sentry-go v0.11.0/go.mod h1:KBQIxiZAetw62Cj8Ri964vAEWVdgfaUCn30Q3bCvANo=

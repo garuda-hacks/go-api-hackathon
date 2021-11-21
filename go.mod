@@ -4,8 +4,8 @@ go 1.17
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/garuda-hacks/go-entities-hackathon v0.0.0-20211119132100-4f4f7e882a35
-	github.com/garuda-hacks/go-library-hackathon v0.0.0-20211120022629-57ee3538d2bb
+	github.com/garuda-hacks/go-entities-hackathon v0.0.0-20211121062459-818e7038e135
+	github.com/garuda-hacks/go-library-hackathon v0.0.0-20211121062220-d599fb3417b2
 	github.com/getsentry/sentry-go v0.11.0
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/gin v1.7.4
